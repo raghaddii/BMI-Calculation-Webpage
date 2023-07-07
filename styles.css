@@ -1,0 +1,73 @@
+body  {font-family: tahoma;
+
+
+
+   background-image: url(bmi.jpg);
+
+   background-repeat: no-repeat;
+   background-size: 100%;}
+
+#div2 {margin-left: 100px;}
+
+
+
+
+h4 {text-align: center;}
+
+
+
+
+.green {color: green;}
+
+p.under{color: black;
+
+text-decoration: underline;
+
+   text-align: left;}
+
+
+
+
+.perfect{font-weight: bold;
+
+   color: black;
+
+   text-align: left;
+
+
+
+
+}
+
+
+
+
+li {font-family :Courier;
+
+padding: 0.2em;
+
+color: black;
+
+text-align: left;}
+
+
+
+
+
+div {border: medium solid;
+
+border-radius: 5px;
+
+float: left;
+
+height: 300px;
+
+width: 400px;
+
+padding :  50px;
+
+background-color:white;
+
+opacity: 0.9;
+
+}
